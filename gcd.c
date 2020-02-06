@@ -1,3 +1,5 @@
+/*Write a recursive program to : find GCD*/
+
 #include<stdio.h>
 int gcd(int a, int b)
 {
