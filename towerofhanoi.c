@@ -1,3 +1,5 @@
+/*Write a recursive program to : Solve Towers-of-Hanoi problem*/
+
 #include<stdio.h>
 void tower(int n,char src,char temp,char dest);
 int main()
